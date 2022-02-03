@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ca059a6e-d560-4ebc-aedd-132009995a6a": {
+      "ProjectGuid": "ca059a6e-d560-4ebc-aedd-132009995a6a",
+      "DisplayName": "TaskManagementApi",
+      "ColorIndex": 0
+    },
+    "0ef3888e-bf94-41a3-a214-bb1477de1048": {
+      "ProjectGuid": "0ef3888e-bf94-41a3-a214-bb1477de1048",
+      "DisplayName": "Data",
+      "ColorIndex": 1
+    },
+    "785af634-9dfa-4984-9774-c2984d156268": {
+      "ProjectGuid": "785af634-9dfa-4984-9774-c2984d156268",
+      "DisplayName": "Services",
+      "ColorIndex": 2
+    },
+    "64ccb933-d49c-4725-9e5f-187d7aa063ec": {
+      "ProjectGuid": "64ccb933-d49c-4725-9e5f-187d7aa063ec",
+      "DisplayName": "Common",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

@@ -1,0 +1,10 @@
+C:\Users\SyedIqbal\source\repos\TaskManagementApi\Services\bin\Debug\netcoreapp3.1\Services.deps.json
+C:\Users\SyedIqbal\source\repos\TaskManagementApi\Services\bin\Debug\netcoreapp3.1\Services.dll
+C:\Users\SyedIqbal\source\repos\TaskManagementApi\Services\bin\Debug\netcoreapp3.1\Services.pdb
+C:\Users\SyedIqbal\source\repos\TaskManagementApi\Services\obj\Debug\netcoreapp3.1\Services.csproj.AssemblyReference.cache
+C:\Users\SyedIqbal\source\repos\TaskManagementApi\Services\obj\Debug\netcoreapp3.1\Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SyedIqbal\source\repos\TaskManagementApi\Services\obj\Debug\netcoreapp3.1\Services.AssemblyInfoInputs.cache
+C:\Users\SyedIqbal\source\repos\TaskManagementApi\Services\obj\Debug\netcoreapp3.1\Services.AssemblyInfo.cs
+C:\Users\SyedIqbal\source\repos\TaskManagementApi\Services\obj\Debug\netcoreapp3.1\Services.csproj.CoreCompileInputs.cache
+C:\Users\SyedIqbal\source\repos\TaskManagementApi\Services\obj\Debug\netcoreapp3.1\Services.dll
+C:\Users\SyedIqbal\source\repos\TaskManagementApi\Services\obj\Debug\netcoreapp3.1\Services.pdb

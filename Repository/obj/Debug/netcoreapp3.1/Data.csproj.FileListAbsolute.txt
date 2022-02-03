@@ -1,0 +1,16 @@
+C:\Users\SyedIqbal\source\repos\TaskManagementApi\Repository\bin\Debug\netcoreapp3.1\Data.deps.json
+C:\Users\SyedIqbal\source\repos\TaskManagementApi\Repository\bin\Debug\netcoreapp3.1\Data.runtimeconfig.json
+C:\Users\SyedIqbal\source\repos\TaskManagementApi\Repository\bin\Debug\netcoreapp3.1\Data.runtimeconfig.dev.json
+C:\Users\SyedIqbal\source\repos\TaskManagementApi\Repository\bin\Debug\netcoreapp3.1\Data.dll
+C:\Users\SyedIqbal\source\repos\TaskManagementApi\Repository\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Users\SyedIqbal\source\repos\TaskManagementApi\Repository\bin\Debug\netcoreapp3.1\Common.dll
+C:\Users\SyedIqbal\source\repos\TaskManagementApi\Repository\bin\Debug\netcoreapp3.1\Common.pdb
+C:\Users\SyedIqbal\source\repos\TaskManagementApi\Repository\obj\Debug\netcoreapp3.1\Data.csproj.AssemblyReference.cache
+C:\Users\SyedIqbal\source\repos\TaskManagementApi\Repository\obj\Debug\netcoreapp3.1\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SyedIqbal\source\repos\TaskManagementApi\Repository\obj\Debug\netcoreapp3.1\Data.AssemblyInfoInputs.cache
+C:\Users\SyedIqbal\source\repos\TaskManagementApi\Repository\obj\Debug\netcoreapp3.1\Data.AssemblyInfo.cs
+C:\Users\SyedIqbal\source\repos\TaskManagementApi\Repository\obj\Debug\netcoreapp3.1\Data.csproj.CoreCompileInputs.cache
+C:\Users\SyedIqbal\source\repos\TaskManagementApi\Repository\obj\Debug\netcoreapp3.1\Data.csproj.CopyComplete
+C:\Users\SyedIqbal\source\repos\TaskManagementApi\Repository\obj\Debug\netcoreapp3.1\Data.dll
+C:\Users\SyedIqbal\source\repos\TaskManagementApi\Repository\obj\Debug\netcoreapp3.1\Data.pdb
+C:\Users\SyedIqbal\source\repos\TaskManagementApi\Repository\obj\Debug\netcoreapp3.1\Data.genruntimeconfig.cache
